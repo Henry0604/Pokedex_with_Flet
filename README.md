@@ -41,7 +41,7 @@ To deploy this project follow these steps
 
 ## License
 
-The license belonging to this project corresponds to the MIT Licence, for more details go to the following file [LICENSE](LICENSE.txt).
+The license belonging to this project corresponds to the MIT Licence, for more details go to the following file [LICENSE](LICENSE).
 
 ## Acknowledgements
 
