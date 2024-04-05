@@ -4,7 +4,7 @@ This project makes use of the Python language and the multiplatform framework ca
 ## Introduction
 This app created with Flet and Python has the function to simulate a Pokedex which gives information to the users of the Pokemon from 1 to 150, being able to observe how they are through an image to later see the corresponding information.
 
-| Initial Form | In operation    |
+| Initial Form | In operation |
 | :-------- | :------- | 
 | <img src="https://github.com/Henry0604/Pokedex_with_Flet/assets/113632465/35ca5b20-ee9a-4d98-b3ab-be7c3a254840" alt="Main Page" width="250" height="500" /> | <img src="https://github.com/Henry0604/Pokedex_with_Flet/assets/113632465/b9b92346-1bf6-4884-8e54-4676dd8bb420" alt="Main Page" width="250" height="500" /> | 
 
